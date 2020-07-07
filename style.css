@@ -7360,7 +7360,8 @@ to {
 }
 #menupage-content #menu .menu-container .menu-category .menu-items-list .menu-items .item-main .item-price {
 	display:block;
-	float:right
+	float:right;
+	width: 20%;
 }
 #menupage-content #menu .menu-container .menu-category .menu-items-list .menu-items .description {
 	display:block;
